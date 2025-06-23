@@ -1,0 +1,2 @@
+2025-03-20 21:15:09,645 {Gripper        } [ERROR] Instrument Driver Error: Error Code=ERRORCODE_GRP_CARD_NOT_FOUND Module Id=MODULE_CAT Firmware Device Id Enum=FW_GRIPPER Full Error Code=203046000 message=Device error
+2025-03-20 23:40:19,067 {Probes         } [ERROR] Instrument Driver Error: Error Code=ERRORCODE_LD_NOT_LEVEL Module Id=MODULE_PIP Firmware Device Id Enum=FW_LEVEL_DETECTOR_1 Full Error Code=809057000 message=Device error
